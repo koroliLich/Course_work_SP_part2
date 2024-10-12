@@ -3,7 +3,9 @@
 
 int main() {
 	double a, b;
-
+        
+        hello();
+        
 	std::cout << "Enter A: ";
 	std::cin >> a;
 

@@ -9,4 +9,6 @@ class Calculator {
 		double div(double, double);
 };
 
+void hello();
+
 #endif //CALCULATOR_H
